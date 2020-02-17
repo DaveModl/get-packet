@@ -1,0 +1,1 @@
+nsert into t_red_packet(user_id,amount,send_date,total,unit_amount,stock,note) values(1,200000.00,now(),20000,10.00,20000,'两万个10元小红包，总共20万元');
